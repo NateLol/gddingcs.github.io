@@ -23,7 +23,7 @@ File: \[[../../papers/ding2019a.pdf journal]\] | \[[../../papers/ding2018center.
 
 Citation:
 ~~~
-/@article{ding2019a,\n
+@article{ding2019a,\n
   title={Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification}\n
   author={Ding, Guodong and Zhang, Shanshan and Khan, Salman and Tang, Zhenmin and Zhang, Jian and Porikli, Fatih},\n
   journal={IEEE Transactions on Multimedia},\n
@@ -35,7 +35,7 @@ Citation:
   title = {Center based Pseudo-Labeling for semi-supervised Person Re-identification},\n
   journal = {Multimodal Biometrics Learning Workshop, IEEE International Conference on Multimedia and Expo (ICME)},\n
   address = {San Diego, USA},\n
-  year = {2018}\n/
+  year = {2018}\n
 }
 
 

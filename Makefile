@@ -9,6 +9,8 @@ all : $(HDOCS)
 
 %.html: %.jemdoc
 	python $(COMPILER) -c $(CONF) -o $@ $<
+	git add .
+	git commit -m "update"
 
 
 .PHONY: clean

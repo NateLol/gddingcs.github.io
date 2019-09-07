@@ -28,12 +28,19 @@ Code: \[[https://github.com/gddingcs/Dispersion-based-Clustering code]\]
 
 Citation:
 ~~~
-/@inproceedings{ding2019dispersion,\n
+@article{ding2019towards,\n
+	title={Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification},\n
+	author={Ding, Guodong and Khan, Salman and Tang, Zhenmin and Zhang, Jian and Porikli, Fatih},\n
+	journal={arXiv preprint arXiv:1906.01308},\n
+	year={2019},\n
+}\n
+
+@inproceedings{ding2019dispersion,\n
   title={Dispersion based Clustering for Unsupervised Person Re-identification},\n
   author={Ding, Guodong and Khan, Salman and Tang, Zhenmin},\n
   journal={30th British Machine Vision Conference},\n
   year={2019},\n
-}\n/
+}
 
 ~~~
 

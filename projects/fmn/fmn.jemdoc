@@ -24,12 +24,12 @@ Files: \[[../../papers/ding2019feature.pdf journal]\]
 
 Citation:
 ~~~
-/@article{ding2019feature,\n
+@article{ding2019feature,\n
   title={Feature Mask Network for Person Re-identification},\n
   author={Ding, Guodong and Khan, Salman and Tang, Zhenmin and Porikli, Fatih},\n
   journal={Pattern Recognition Letters},\n
   year={2019}\n
-}\n/
+}\n
 
 ~~~
 
