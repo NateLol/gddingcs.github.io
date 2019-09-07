@@ -56,10 +56,11 @@ Thesis: /Content based Commodity Image Retrieval/
 - *\G. Ding\* *\, S. Khan, and Z. Tang, /Dispersion based Clustering for Unsupervised Person Re-identification/, British Machine Vision Conference, 2019. \[[papers/ding2019dispersion.pdf pdf]\]|\[[papers/ding2019dispersion_poster.pdf poster]\]
 - *\G. Ding\* *\, S. Zhang, S. Khan, and Z. Tang, /Center based Pseudo-labeling for Semi-supervised Person Re-identification/, International Conference of Multimedia and Expo Workshops, 2018. \[[papers/ding2018center.pdf pdf]\]|\[[papers/ding2018center_slides.pdf slides]\]
 
+/(*\**: corresponding author)/\n
 
-/(*\**: corresponding author)/
+=     
 
-
+#includeraw{logo.html}
 
 
 
