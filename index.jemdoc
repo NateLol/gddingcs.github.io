@@ -5,10 +5,10 @@
 ~~~
 {}{img_left}{avatar.jpeg}{alt text}{150px}{150px}{}
 \n
-== Guodong Ding ∂°π˙∂∞ \n
-[./files/GUODONG_DING_CV.pdf \[CV\]]|\[[guodong.ding@njust.edu.cn guodong.ding@njust.edu.cn]\]
+== Guodong Ding ‰∏ÅÂõΩÊ†ã \n
+\[[./files/GUODONG_DING_CV.pdf CV]\]|\[[guodong.ding@njust.edu.cn guodong.ding@njust.edu.cn]\]
 \n
-Ph.D. Candidate, expected November, 2019\n
+Ph.D. Candidate, expected /November, 2019/\n
 Nanjing University of Science and Technology (NJUST) \n
 Room 3054, CES Building, 200 Xiaolingwei Street, Nanjing
 ~~~
@@ -17,18 +17,17 @@ Room 3054, CES Building, 200 Xiaolingwei Street, Nanjing
 == Education
 - *Ph.D.* /(Sep. 2013 - Present)/, in Technology of Computer Application,\n 
 Nanjing University of Science and Technology, Nanjing.\n
-Advisor: [http://cs.njust.edu.cn/24/26/c1732a9254/page.htm Zhenmin Tang], Guangyi Bai\n
+Advisor: Prof. [http://cs.njust.edu.cn/24/26/c1732a9254/page.htm Zhenmin Tang] and Prof. Guangyi Bai\n
 Dissertation: /From Supervised to Unsupervised: Research on Deep Learning based Person Re-identification/
 - *B.Eng.* /(Sep. 2009- June. 2013)/, in Computer Science and Technology,\n
 Nanjing University of Science and Technology, Nanjing.\n
-Advisor: [http://cs.njust.edu.cn/24/26/c1732a9254/page.htm Zhenmin Tang]\n
+Advisor: Prof. [http://cs.njust.edu.cn/24/26/c1732a9254/page.htm Zhenmin Tang]\n
 Thesis: /Content based Commodity Image Retrieval/
 
 == Research area
 - Person Re-identification\n
 
 - Human Pose Estimation\n
-
 
 
 == Updates
@@ -44,17 +43,17 @@ Thesis: /Content based Commodity Image Retrieval/
 
 == Publications
 === Preprints & working papers
-- *\G. Ding\* *\, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper. [https://arxiv.org/pdf/1906.01308.pdf \[PDF\]]
+- *\G. Ding\* *\, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper. \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]
 
 
 === Journal articles
-- *\G. Ding\* *\, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. [./papers/ding2019a.pdf \[PDF\]]
+- *\G. Ding\* *\, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. \[[./papers/ding2019a.pdf pdf]\]
 
-- *\G. Ding\* *\, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. [./papers/ding2019feature.pdf \[PDF\]]
+- *\G. Ding\* *\, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. \[[./papers/ding2019feature.pdf pdf]\]
 
 === Conference papers
-- *\G. Ding\* *\, S. Khan, and Z. Tang, /Dispersion based Clustering for Unsupervised Person Re-identification/, British Machine Vision Conference, 2019. [./papers/ding2019dispersion.pdf \[PDF\]][./papers/ding2019dispersion_poster.pdf \[POSTER\]]
-- *\G. Ding\* *\, S. Zhang, S. Khan, and Z. Tang, /Center based Pseudo-labeling for Semi-supervised Person Re-identification/, International Conference of Multimedia and Expo Workshops, 2018. [./papers/ding2018center.pdf \[PDF\]]
+- *\G. Ding\* *\, S. Khan, and Z. Tang, /Dispersion based Clustering for Unsupervised Person Re-identification/, British Machine Vision Conference, 2019. \[[./papers/ding2019dispersion.pdf pdf]\]|\[[./papers/ding2019dispersion_poster.pdf poster]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]
+- *\G. Ding\* *\, S. Zhang, S. Khan, and Z. Tang, /Center based Pseudo-labeling for Semi-supervised Person Re-identification/, International Conference of Multimedia and Expo Workshops, 2018. \[[./papers/ding2018center.pdf pdf]\]|\[[./papers/ding2018center_slides.pdf slides]\]
 
 
 /(*\**: corresponding author)/
