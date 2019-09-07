@@ -10,7 +10,6 @@ all : $(HDOCS)
 %.html: %.jemdoc
 	python $(COMPILER) -c $(CONF) -o $@ $<
 
-
 .PHONY: upload
 upload:
 	git add .
