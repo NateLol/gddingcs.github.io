@@ -20,16 +20,16 @@ Person re-identification aims at establishing the identity of a pedestrian from 
 To this end, we propose a Feature Mask Network (FMN) that takes advantage of ResNet high-level features to predict a feature map mask and then imposes it on the low-level features to dynamically re-weight different object parts for a complementary feature representation. This serves as an attention mechanism by allowing the network to focus on local details selectively. We frame the network training as a multi-task objective optimization, which further improves the learned feature descriptions. We conduct experiments on Market-1501, DukeMTMC-reID and CUHK03 datasets, where the proposed approach respectively achieves significant improvements and competitive results when compared to the state-of-the-art.
 
 == Resources:
-Files: \[[../../papers/ding2019feature.pdf Journal]\]
+Files: \[[../../papers/ding2019feature.pdf journal]\]
 
 Citation:
 ~~~
-@article{ding2019feature,\n
+/@article{ding2019feature,\n
   title={Feature Mask Network for Person Re-identification},\n
   author={Ding, Guodong and Khan, Salman and Tang, Zhenmin and Porikli, Fatih},\n
   journal={Pattern Recognition Letters},\n
   year={2019}\n
-}\n
+}\n/
 
 ~~~
 

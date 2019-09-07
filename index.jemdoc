@@ -44,13 +44,13 @@ Thesis: /Content based Commodity Image Retrieval/
 
 == Publications
 === Preprints & working papers
-- *\G. Ding\* *\, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper. \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html Project Page]\]
+- *\G. Ding\* *\, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper. \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html project page]\]
 
 
 === Journal articles
-- *\G. Ding\* *\, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. \[[papers/ding2019a.pdf pdf]\]|\[[projects/fapl/fapl.html Project Page]\]
+- *\G. Ding\* *\, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. \[[papers/ding2019a.pdf pdf]\]|\[[projects/fapl/fapl.html project page]\]
 
-- *\G. Ding\* *\, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html Project Page]\]
+- *\G. Ding\* *\, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html project page]\]
 
 === Conference papers
 - *\G. Ding\* *\, S. Khan, and Z. Tang, /Dispersion based Clustering for Unsupervised Person Re-identification/, British Machine Vision Conference, 2019. \[[papers/ding2019dispersion.pdf pdf]\]|\[[papers/ding2019dispersion_poster.pdf poster]\]
@@ -58,7 +58,7 @@ Thesis: /Content based Commodity Image Retrieval/
 
 /(*\**: corresponding author)/\n
 
-=     
+=     3
 
 #includeraw{logo.html}
 
