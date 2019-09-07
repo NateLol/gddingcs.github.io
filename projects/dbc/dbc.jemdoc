@@ -21,5 +21,22 @@ In this paper, we propose an elegant and practical clustering approach for unsup
 
 Our extensive experimental analysis on image and video re-identification benchmarks demonstrate that our method outperforms the state-of-the-art unsupervised methods by a significant margin.
 
-== Approach
+== Resources
+Files: \[[https://arxiv.org/pdf/1906.01308.pdf Journal]\]|\[[../../papers/ding2019dispersion.pdf Conference]\]|\[[../../papers/ding2019dispersion_poster.pdf Poster]\]
+
+Code: \[[https://github.com/gddingcs/Dispersion-based-Clustering code]\]
+
+Citation:
+~~~
+@inproceedings{ding2019dispersion,\n
+  title={Dispersion based Clustering for Unsupervised Person Re-identification},\n
+  author={Ding, Guodong and Khan, Salman and Tang, Zhenmin},\n
+  journal={30th British Machine Vision Conference},\n
+  year={2019},\n
+}\n
+
+~~~
+
+
+
 
