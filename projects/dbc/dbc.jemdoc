@@ -2,12 +2,8 @@
 # jemdoc: nofooter
 = Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification
 
-
-
 ~~~
 {}{img_left}{archi.png}{}{660px}{348px}{}
-
-
 ~~~
 
 == Authors
@@ -27,6 +23,7 @@ Files: \[[https://arxiv.org/pdf/1906.01308.pdf journal]\]|\[[../../papers/ding20
 Code: \[[https://github.com/gddingcs/Dispersion-based-Clustering code]\]
 
 Citation:
+
 ~~~
 @article{ding2019towards,\n
 	title={Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification},\n

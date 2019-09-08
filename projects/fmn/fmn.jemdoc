@@ -2,17 +2,12 @@
 # jemdoc: nofooter
 = Feature Mask Network for Person Re-identification
 
-
-
 ~~~
 {}{img_left}{archi.png}{}{624px}{288px}{}
-
-
 ~~~
 
 == Authors
 Guodong Ding{{<sup>}}1{{</sup>}}, Salman Khan{{<sup>}}2{{</sup>}}, Zhenming Tang{{<sup>}}1{{</sup>}} and Fatih Porikli{{<sup>}}2{{</sup><br><sup>}}1{{</sup>}}Nanjing Univerisity of Science and Technology, {{<sup>}}2{{</sup>}}Australian National University
-
 
 == Abstract\n
 Person re-identification aims at establishing the identity of a pedestrian from a gallery that contains images of people obtained from a multi-camera system, which has many applications in video surveillance for public security and safety. Many challenges such as occlusions, drastic lighting and pose variations across the camera views, and noise make this task highly challenging. While most approaches focus on learning features and metrics to derive better representations, we hypothesize that both local and global contextual cues are crucial for an accurate identity matching. 
@@ -30,6 +25,5 @@ Citation:
   journal={Pattern Recognition Letters},\n
   year={2019}\n
 }\n
-
 ~~~
 
