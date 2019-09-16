@@ -7,7 +7,7 @@
 ~~~
 
 == Authors
-Guodong Ding{{<sup>}}1{{</sup>}}, Salman Khan{{<sup>}}2{{</sup>}}, Zhenming Tang{{<sup>}}1{{</sup>}} and Fatih Porikli{{<sup>}}2{{</sup><br><sup>}}1{{</sup>}}Nanjing Univerisity of Science and Technology, {{<sup>}}2{{</sup>}}Australian National University
+[http://www.guodongding.cn Guodong Ding]{{<sup>}}1{{</sup>}}, [https://salman-h-khan.github.io Salman Khan]{{<sup>}}2{{</sup>}}, [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenming Tang]{{<sup>}}1{{</sup>}} and [http://www.porikli.com Fatih Porikli]{{<sup>}}2{{</sup><br><sup>}}1{{</sup>}}Nanjing Univerisity of Science and Technology, {{<sup>}}2{{</sup>}}Australian National University
 
 == Abstract\n
 Person re-identification aims at establishing the identity of a pedestrian from a gallery that contains images of people obtained from a multi-camera system, which has many applications in video surveillance for public security and safety. Many challenges such as occlusions, drastic lighting and pose variations across the camera views, and noise make this task highly challenging. While most approaches focus on learning features and metrics to derive better representations, we hypothesize that both local and global contextual cues are crucial for an accurate identity matching. 
