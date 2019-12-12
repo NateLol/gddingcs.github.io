@@ -27,6 +27,9 @@ Citation:
   title={Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification}\n
   author={Ding, Guodong and Zhang, Shanshan and Khan, Salman and Tang, Zhenmin and Zhang, Jian and Porikli, Fatih},\n
   journal={IEEE Transactions on Multimedia},\n
+  volume={21},\n
+  number={11},\n
+  pages={2891-2902},\n
   year={2019}\n
 }\n
 
