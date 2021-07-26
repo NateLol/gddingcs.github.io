@@ -46,7 +46,7 @@ Thesis: /Content based Commodity Image Retrieval/
 - *G. Ding\**, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper. \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html project page]\]
 
 === Journal articles
-- Q. Yin, G. Wang, G. Ding, S. Gong and Z. Tang, /Multi-View Label Prediction for Unsupervsied Person Re-identification/, IEEE Singal Processing Letters, 2021. 
+- Q. Yin, G. Wang, *G. Ding*, S. Gong and Z. Tang, /Multi-View Label Prediction for Unsupervsied Person Re-identification/, IEEE Singal Processing Letters, 2021. 
 - *G. Ding\**, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. \[[papers/ding2019a.pdf pdf]\]|\[[projects/fapl/fapl.html project page]\]
 - *G. Ding\**, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html project page]\]
 
