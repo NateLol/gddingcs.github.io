@@ -26,7 +26,10 @@ import sys
 import os
 import re
 import time
-import StringIO
+try:
+	from StringIO import StringIO
+except:
+	from io import StringIO
 from subprocess import *
 import tempfile
 
@@ -293,7 +296,7 @@ def parseconf(cns):
   syntax = {}
   warn = False # jem. make configurable?
   # manually add the defaults as a file handle.
-  fs = [StringIO.StringIO(standardconf())]
+  fs = [StringIO(standardconf())]
   for sname in cns:
     fs.append(open(sname, 'rb'))
 
