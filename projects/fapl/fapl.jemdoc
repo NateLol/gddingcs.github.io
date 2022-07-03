@@ -11,7 +11,7 @@
 
 
 == Authors
-[http://www.guodongding.cn Guodong Ding]{{<sup>}}1{{</sup>}}, Shanshan Zhang{{<sup>}}1{{</sup>}}, Salman Khan{{<sup>}}2{{</sup>}}, Zhenming Tang{{<sup>}}1{{</sup>}}, Jian Zhang{{<sup>}}3{{</sup>}} and Fatih Porikli{{<sup>}}2{{</sup><br><sup>}}1{{</sup>}}Nanjing Univerisity of Science and Technology, {{<sup>}}2{{</sup>}}Australian National University, {{<sup>}}3{{</sup>}}University of Technology Sydney
+[http://www.guodongding.cn Guodong Ding]{{<sup>}}1{{</sup>}}, [https://sites.google.com/site/shanshanzhangshomepage/ Shanshan Zhang]{{<sup>}}1{{</sup>}}, [https://salman-h-khan.github.io Salman Khan]{{<sup>}}2{{</sup>}}, [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenming Tang]{{<sup>}}1{{</sup>}}, [https://www.uts.edu.au/staff/jian.zhang Jian Zhang]{{<sup>}}3{{</sup>}} and [http://www.porikli.com Fatih Porikli]{{<sup>}}2{{</sup><br><sup>}}1{{</sup>}}Nanjing Univerisity of Science and Technology, {{<sup>}}2{{</sup>}}Australian National University, {{<sup>}}3{{</sup>}}University of Technology Sydney
 
 == Abstact
 Vision-based person re-identification aims to match a person’s identity across multiple images, which is a fundamental task in multimedia content analysis and retrieval. Deep neural networks have recently manifested great potential in this task. However, a major bottleneck of existing supervised deep networks is their reliance on large amount of annotated training data. Manual labeling for person identities in large-scale surveillance camera systems is quite challenging and incurs significant costs. Some recent studies adopt generative model outputs as training data augmentation.
