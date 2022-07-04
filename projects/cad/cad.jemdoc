@@ -8,7 +8,7 @@
 
 == Authors
 [http://www.guodongding.cn Guodong Ding] and [https://www.comp.nus.edu.sg/~ayao/ Angela Yao] {{<br>}}
-National Univeristy of Singapore
+National University of Singapore
 
 
 == Abstract\n
@@ -23,7 +23,6 @@ The global-level matching allows for action sharing across activities, which has
 Files: \[[https://arxiv.org/pdf/2108.06706.pdf pdf]\]
 
 Citation:
-
 ~~~
 @article{ding2021temporal,\n
   title={Temporal Action Segmentation with High-level Complex Activity Labels},\n

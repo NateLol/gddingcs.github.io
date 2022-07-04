@@ -1,4 +1,4 @@
-DOCS = index projects/fmn/fmn projects/fapl/fapl projects/dbc/dbc projects/cad/cad
+DOCS = index projects/fmn/fmn projects/fapl/fapl projects/dbc/dbc projects/cad/cad projects/semi/semi
 COMPILER = jemdoc.py
 CONF= mysite.conf
 
