@@ -6,8 +6,8 @@
 {}{img_left}{avatar.jpeg}{profolio}{150px}{150px}{}
 \n
 
-== Guodong Ding 丁国栋 \n
-\[[./files/GUODONG_DING_CV.pdf CV]\]|\[[dinggd@comp.nus.edu.sg dinggd@comp.nus.edu.sg]\]\n
+== Guodong Ding 丁国栋 \[[./files/GUODONG_DING_CV.pdf CV]\]\n
+dinggd /\[at/\] comp.nus.edu /\[dot/\] sg\n
 /Research Fellow, School of Computing (SoC)/, \n
 /National University of Singapore (NUS)/,\n
 /AS6-04-11, 11 Computing Dr, Singapore, 117416/\n
@@ -15,20 +15,7 @@
 ~~~
 
 == Research area
-My current research interest is mainly understanding human actions in long range video sequences, /i.e./, Temporal Action Segmentation. I am also interested in learning with weaker forms of data supervisions such as, weakly-supervised and semi-supervised learning.
-
-== Education
-- *Ph.D.* /(Sept. 2013 - Jan. 2020)/, in Computer Science and Technology (081200),\n 
-Nanjing University of Science and Technology, Nanjing \n
-Advisor: Prof. [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenmin Tang] and Prof. Guangyi Bai,\n
-博士论文: /面向不同监督条件下的行人再识别深度学习方法关键问题研究/\&nbsp;\[[files/Dissertation.pdf pdf]\],\n
-Dissertation: /Research on Deep Learning based Person Re-identification Methods under Different Supervisions/
-- *B.Eng.* /(Sept. 2009- June. 2013)/, in Computer Science and Technology (080605),\n
-Nanjing University of Science and Technology, Nanjing\n
-Advisor: Prof. [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenmin Tang],\n
-本科论文: 基于内容的商品图像检索,\n
-Thesis: /Content based Commodity Image Retrieval/
-
+My current research interest is mainly understanding human actions in long range video sequences, /i.e./, _Temporal Action Segmentation_. I am also interested in learning with weaker forms of data supervisions such as, _weakly-supervised_ and _semi-supervised_ learning.
 
 == Updates
 - /\[Jul., 22\]/ One conference paper accepted to ECCV2022.
@@ -41,32 +28,48 @@ Thesis: /Content based Commodity Image Retrieval/
 - /\[Feb., 19\]/ One journal paper accepted to PRL.
 
 
+== Employment
+- *Research Fellow* /(Oct., 20 - Present)/, in School of Computing (SoC), National University of Singapore, Singapore. 
+- *Engineering Intern* /(June, 19 - Sept., 19)/, in China QCT MM R&D, Qualcomm Shanghai, China. 
 
-== Experiences
-- *Research Fellow* /(Oct., 20 - Present)/, in School of Computing (SoC), National University of Singapore. 
-- *Engineering Intern* /(June, 19 - Sept., 19)/, in China QCT MM R&D, Qualcomm Shanghai. 
-- *Visiting Scholar* /(Feb., 17 - Oct., 17)/, in Australian National University.
-- *Research Assistant* /(Nov., 15 - Feb., 17)/, in the Hong Kong Polytechnic University.
+== Research Experiences
+- *Visiting Scholar* /(Feb., 17 - Oct., 17)/, in Australian National University, Australia.
+- *Research Assistant* /(Nov., 15 - Feb., 17)/, in the Hong Kong Polytechnic University, Hong Kong, China.
+
+== Education
+- *Ph.D.* /(Sept. 2013 - Jan. 2020)/, in Computer Science and Technology (081200),\n 
+Nanjing University of Science and Technology, Nanjing \n
+Advisor: Prof. [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenmin Tang] and Prof. Guangyi Bai,\n
+博士论文: /面向不同监督条件下的行人再识别深度学习方法关键问题研究/\&nbsp;\[[files/Dissertation.pdf pdf]\],\n
+Dissertation: /Research on Deep Learning based Person Re-identification Methods under Different Supervisions/
+- *B.Eng.* /(Sept. 2009- June. 2013)/, in Computer Science and Technology (080605),\n
+Nanjing University of Science and Technology, Nanjing\n
+Advisor: Prof. [http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&yxsh=106&zydm=081203 Zhenmin Tang],\n
+本科论文: /基于内容的商品图像检索/,\n
+Thesis: /Content based Commodity Image Retrieval/
+
+
 
 == Publications
 === Preprints & working papers
-- *G. Ding* and A. Yao, /Temporal Action Segmentation with High-level Complex Activity Labels/, Arxiv paper, 2021. \[[https://arxiv.org/pdf/2108.06706.pdf pdf]\]|\[[projects/cad/cad.html project page]\]
-- *G. Ding\**, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification/, Arxiv paper, 2019. \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html project page]\]
+- *G. Ding* and A. Yao, Temporal Action Segmentation with High-level Complex Activity Labels, /Arxiv paper/ 2021.  \[[https://arxiv.org/pdf/2108.06706.pdf pdf]\]|\[[projects/cad/cad.html project page]\]
+- *G. Ding\**, S. Khan, Z. Tang, J. Zhang and F. Porikli, Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification, /Arxiv paper/ 2019.  \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html project page]\]
 
 === Journal articles
-- Q. Yin, G. Wang, *G. Ding*, S. Gong and Z. Tang, /Multi-View Label Prediction for Unsupervsied Person Re-identification/, IEEE Singal Processing Letters, 2021. \[[http://www.eecs.qmul.ac.uk/~sgg/papers/YinEtAl_SPL2021.pdf pdf]\]
-- *G. Ding\**, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, /Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification/, IEEE Transcations on Multimedia, 2019. \[[papers/ding2019a.pdf pdf]\]|\[[projects/fapl/fapl.html project page]\]
-- *G. Ding\**, S. Khan, Z. Tang, and F. Porikli, /Feature Mask Network for Person Re-identification/, Pattern Recognition Letters, 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html project page]\]
+- Q. Yin, G. Wang, *G. Ding*, S. Gong and Z. Tang, Multi-View Label Prediction for Unsupervsied Person Re-identification, /IEEE Singal Processing Letters/ 2021.  \[[http://www.eecs.qmul.ac.uk/~sgg/papers/YinEtAl_SPL2021.pdf pdf]\]|\[[projects/mvreid/mvreid.html project page]\]
+- *G. Ding\**, S. Zhang, S. Khan, Z. Tang, J. Zhang and F. Porikli, Feature Affinity based Pseudo Labeling for Semi-supervised Person Re-identification, /IEEE Transcations on Multimedia/ 2019.  \[[papers/ding2019a.pdf pdf]\]|\[[projects/fapl/fapl.html project page]\]
+- *G. Ding\**, S. Khan, Z. Tang, and F. Porikli, Feature Mask Network for Person Re-identification, /Pattern Recognition Letters/ 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html project page]\]
 
 === Conference papers
-- *G. Ding* and A. Yao, /Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation/, European Conference on Computer Vision, 2022. \[[projects/semi/semi.html project page]\]
-- *G. Ding\**, S. Khan, and Z. Tang, /Dispersion based Clustering for Unsupervised Person Re-identification/, British Machine Vision Conference, 2019. \[[papers/ding2019dispersion.pdf pdf]\]|\[[papers/ding2019dispersion_poster.pdf poster]\]
-- *G. Ding\**, S. Zhang, S. Khan, and Z. Tang, /Center based Pseudo-labeling for Semi-supervised Person Re-identification/, International Conference of Multimedia and Expo Workshops, 2018. \[[papers/ding2018center.pdf pdf]\]|\[[papers/ding2018center_slides.pdf slides]\]
+- *G. Ding* and A. Yao, Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation, /European Conference on Computer Vision/ 2022.  \[[projects/semi/semi.html project page]\]
+- *G. Ding\**, S. Khan, and Z. Tang, Dispersion based Clustering for Unsupervised Person Re-identification, /British Machine Vision Conference/ 2019. \[[papers/ding2019dispersion.pdf pdf]\]|\[[papers/ding2019dispersion_poster.pdf poster]\]|\[[projects/dbc/dbc.html project page]\]
+- *G. Ding\**, S. Zhang, S. Khan, and Z. Tang, Center based Pseudo-labeling for Semi-supervised Person Re-identification, /International Conference of Multimedia and Expo Workshops/ 2018. \[[papers/ding2018center.pdf pdf]\]|\[[papers/ding2018center_slides.pdf slides]\]
 
 /(*\**: corresponding author)/\n
 
-
-
+== Reviewer
+TMM, TIP, TPAMI, CVPR, ECCV, AAAI, BMVC, ICME, TOSN, TII \n
+Co-organizer of [https://atlas-eccv22.github.io/ ATLAS] Tutorial on understanding actions in long untrimmed videos in conjunction with ECCV2022.
 
 == Collaborators
 Prof. [https://www.comp.nus.edu.sg/~ayao/ Angela Yao], School of Computing, National University of Singapore\n

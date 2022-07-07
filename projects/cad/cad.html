@@ -7,6 +7,15 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="../project.css" type="text/css" />
 <title>Temporal Action Segmentation with High-level Complex Activity Labels</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
 <div id="layout-content">
@@ -17,16 +26,22 @@
 <img src="archi.png" alt="" width="885px" height="314px" />&nbsp;</td>
 <td align="left"></td></tr></table>
 <h2>Authors</h2>
-<p><a href="http://www.guodongding.cn">Guodong Ding</a> and <a href="https://www.comp.nus.edu.sg/~ayao/">Angela Yao</a> <br>
-National University of Singapore</p>
+<p><a href="http://www.guodongding.cn" target=&ldquo;blank&rdquo;>Guodong Ding</a> and <a href="https://www.comp.nus.edu.sg/~ayao/" target=&ldquo;blank&rdquo;>Angela Yao</a> <br>
+National University of Singapore
+</p>
 <h2>Abstract<br /></h2>
-<p>The temporal action segmentation task segments videos temporally and predicts action labels for all frames. Fully supervising such a segmentation model requires dense frame-wise action annotations, which are expensive and tedious to collect.</p>
-<p>This work is the first to propose a Constituent Action Discovery (CAD) framework that only requires the video-wise high-level complex activity label as supervision for temporal action segmentation. The proposed approach automatically discovers constituent video actions using an activity classification task. Specifically, we define a finite number of latent action prototypes to construct video-level dual representations with which these prototypes are learned collectively through the activity classification training. This setting endows our approach with the capability to discover potentially shared actions across multiple complex activities. </p>
+<p>The temporal action segmentation task segments videos temporally and predicts action labels for all frames. Fully supervising such a segmentation model requires dense frame-wise action annotations, which are expensive and tedious to collect.
+</p>
+<p>This work is the first to propose a Constituent Action Discovery (CAD) framework that only requires the video-wise high-level complex activity label as supervision for temporal action segmentation. The proposed approach automatically discovers constituent video actions using an activity classification task. Specifically, we define a finite number of latent action prototypes to construct video-level dual representations with which these prototypes are learned collectively through the activity classification training. This setting endows our approach with the capability to discover potentially shared actions across multiple complex activities. 
+</p>
 <p>Due to the lack of action-level supervision, we adopt the Hungarian matching algorithm to relate latent action prototypes to ground truth semantic classes for evaluation. We show that with the high-level supervision, the Hungarian matching can be extended from the existing video and activity levels to the global level. 
-The global-level matching allows for action sharing across activities, which has never been considered in the literature before. Extensive experiments demonstrate that our discovered actions can help perform temporal action segmentation and activity recognition tasks.</p>
+The global-level matching allows for action sharing across activities, which has never been considered in the literature before. Extensive experiments demonstrate that our discovered actions can help perform temporal action segmentation and activity recognition tasks.
+</p>
 <h2>Resources</h2>
-<p>Files: [<a href="https://arxiv.org/pdf/2108.06706.pdf">pdf</a>]</p>
-<p>Citation:</p>
+<p>Files: [<a href="https://arxiv.org/pdf/2108.06706.pdf" target=&ldquo;blank&rdquo;>pdf</a>]
+</p>
+<p>Citation:
+</p>
 <div class="infoblock">
 <div class="blockcontent">
 <p>@article{ding2021temporal,<br />
@@ -34,7 +49,8 @@ title={Temporal Action Segmentation with High-level Complex Activity Labels},<br
 author={Ding, Guodong and Yao, Angela},<br />
 journal={arXiv preprint arXiv:2108.06706},<br />
 year={2021}<br />
-}</p>
+}
+</p>
 </div></div>
 </div>
 <script src="https://www.google-analytics.com/urchin.js" type="text/javascript">

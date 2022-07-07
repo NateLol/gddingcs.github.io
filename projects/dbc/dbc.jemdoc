@@ -35,7 +35,7 @@ Citation:
 @inproceedings{ding2019dispersion,\n
   title={Dispersion based Clustering for Unsupervised Person Re-identification},\n
   author={Ding, Guodong and Khan, Salman and Tang, Zhenmin},\n
-  journal={30th British Machine Vision Conference},\n
+  booktitle={30th British Machine Vision Conference},\n
   year={2019},\n
 }
 

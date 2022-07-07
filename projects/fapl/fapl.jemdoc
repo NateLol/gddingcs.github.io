@@ -36,7 +36,7 @@ Citation:
 @inproceedings{ding2018center,\n
   author = { Ding, Guodong and Zhang, Shanshan and Khan, Salman and Tang, Zhenmin},\n
   title = {Center based Pseudo-Labeling for semi-supervised Person Re-identification},\n
-  journal = {Multimodal Biometrics Learning Workshop, IEEE International Conference on Multimedia and Expo (ICME)},\n
+  booktitle = {Multimodal Biometrics Learning Workshop, IEEE International Conference on Multimedia and Expo (ICME)},\n
   address = {San Diego, USA},\n
   year = {2018}\n
 }

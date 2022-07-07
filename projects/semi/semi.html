@@ -7,6 +7,15 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="../project.css" type="text/css" />
 <title>Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
 <div id="layout-content">
@@ -17,21 +26,26 @@
 <img src="teaser.png" alt="" width="607px" height="310px" />&nbsp;</td>
 <td align="left"></td></tr></table>
 <h2>Authors</h2>
-<p><a href="http://www.guodongding.cn">Guodong Ding</a> and <a href="https://www.comp.nus.edu.sg/~ayao/">Angela Yao</a> <br>
-National University of Singapore</p>
+<p><a href="http://www.guodongding.cn" target=&ldquo;blank&rdquo;>Guodong Ding</a> and <a href="https://www.comp.nus.edu.sg/~ayao/" target=&ldquo;blank&rdquo;>Angela Yao</a> <br>
+National University of Singapore
+</p>
 <h2>Abstract</h2>
-<p>We present a semi-supervised learning approach to the temporal action segmentation task. The goal of the task is to temporally detect and segment actions in long, untrimmed procedural videos, where only a small set of videos are densely labelled, and a large collection of videos are unlabelled. To this end, we propose two novel loss functions for the unlabelled data: an action affinity loss and an action continuity loss. The action affinity loss guides the unlabelled samples learning by imposing the action priors induced from the labelled set. Action continuity loss enforces the temporal continuity of actions, which also provides frame-wise classification supervision. In addition, we propose an Adaptive Boundary Smoothing (ABS) approach to build coarser action boundaries for more robust and reliable learning. The proposed loss functions and ABS were evaluated on three benchmarks. Results show that they significantly improved action segmentation performance with a low amount (5% and 10%) of labelled data and achieved comparable results to full supervision with 50% labelled data. Furthermore, ABS succeeded in boosting performance when integrated into fully-supervised learning.</p>
+<p>We present a semi-supervised learning approach to the temporal action segmentation task. The goal of the task is to temporally detect and segment actions in long, untrimmed procedural videos, where only a small set of videos are densely labelled, and a large collection of videos are unlabelled. To this end, we propose two novel loss functions for the unlabelled data: an action affinity loss and an action continuity loss. The action affinity loss guides the unlabelled samples learning by imposing the action priors induced from the labelled set. Action continuity loss enforces the temporal continuity of actions, which also provides frame-wise classification supervision. In addition, we propose an Adaptive Boundary Smoothing (ABS) approach to build coarser action boundaries for more robust and reliable learning. The proposed loss functions and ABS were evaluated on three benchmarks. Results show that they significantly improved action segmentation performance with a low amount (5% and 10%) of labelled data and achieved comparable results to full supervision with 50% labelled data. Furthermore, ABS succeeded in boosting performance when integrated into fully-supervised learning.
+</p>
 <h2>Resources</h2>
-<p>Files: [<a href="../../papers/ding2019feature.pdf">pdf</a>]</p>
-<p>Citation:</p>
+<p>Files: [<a href="../../papers/ding2019feature.pdf" target=&ldquo;blank&rdquo;>pdf</a>]
+</p>
+<p>Citation:
+</p>
 <div class="infoblock">
 <div class="blockcontent">
 <p>@inproceedings{ding2022leveraging,<br />
 title={Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation},<br />
 author={Ding, Guodong and Yao, Angela},<br />
-journal={European Conference on Computer Vision},<br />
+booktitle={European Conference on Computer Vision},<br />
 year={2022}<br />
-}<br /></p>
+}<br />
+</p>
 </div></div>
 </div>
 <script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
