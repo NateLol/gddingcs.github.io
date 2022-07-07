@@ -1,6 +1,4 @@
-#DOCS = index projects/fmn/fmn projects/fapl/fapl projects/dbc/dbc projects/cad/cad projects/semi/semi projects/mvreid/mvreid
 DOCS = $(basename $(shell find . -name "*.jemdoc")) 
-#COMPILER = jemdoc.py
 COMPILER = jemdoc.py
 CONF= mysite.conf
 
