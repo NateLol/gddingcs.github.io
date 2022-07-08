@@ -4,6 +4,7 @@ CONF= mysite.conf
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
+
 .PHONY: all
 all : $(HDOCS)
 
