@@ -10,5 +10,5 @@ scp -r ./ dinggd@sunfire:public_html/
 
 REMOTE
 
-find public_html/ -type d -exec chmod 755 {} \;
+find public_html/ -type d -exec chmod 711 {} \;
 find public_html/ -type f -exec chmod 644 {} \;

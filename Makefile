@@ -1,3 +1,5 @@
+m ?= regular update
+
 DOCS = $(basename $(shell find . -name "*.jemdoc")) 
 COMPILER = jemdoc.py
 CONF= mysite.conf
@@ -14,7 +16,7 @@ all : $(HDOCS)
 .PHONY: upload
 upload:
 	git add .
-	git commit -m "regular update"
+	git commit -m "$(m)"
 	git push -u origin master
 
 .PHONY: clean
