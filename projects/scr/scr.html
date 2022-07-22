@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="../project.css" type="text/css" />
+<title>Rapid Person Re-Identification via Sub-space Consistency Regularization</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Rapid Person Re-Identification via Sub-space Consistency Regularization</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="archi.png" alt="" width="885px" height="554px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<h2>Authors</h2>
+<p>Qingze Yin<sup>1</sup>, Guanan Wang <sup>2</sup>, <a href="http://www.guodongding.cn" target=&ldquo;blank&rdquo;>Guodong Ding</a><sup>3</sup>, Qilei Li<sup>4</sup>,  Shaogang Gong<sup>4</sup>, and <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=21087&amp;yxsh=106&amp;zydm=081203" target=&ldquo;blank&rdquo;>Zhenming Tang</a><sup>1</sup><br><sup>1</sup>Nanjing Univerisity of Science and Technology, <sup>2</sup>Chinese Academy of Sciences, <sup>3</sup>National Univerisity of Singapore, <sup>4</sup>Queen Mary University of London
+</p>
+<h2>Abstract<br /></h2>
+<p>Person Re-Identification (ReID) matches pedestrian across disjoint cameras. Existing ReID methods adopting real-value feature descriptors have achieved high accuracy, but they are low in efficiency due to the slow Euclidean distance computation as well as complex quick-sort algorithms. 
+Recently, some works propose to yield binary encoded person descriptors which instead only require fast Hamming distance computation and sim- ple counting-sort algorithms. 
+However, the performances of such binary encoded descriptors, especially with short code (e.g, 32 and 64 bits), are hardly satisfactory given the sparse binary space. 
+</p>
+<p>To strike a balance between the model accuracy and efficiency, we propose a novel Sub-space Consistency Regularization (SCR) algorithm that can speed up the ReID procedure by 0.25 times than real-value features under same dimensions whilst maintain a competitive accuracy, especially under short codes. 
+SCR transforms real-value features vector (e.g, 2048 float32) with short binary codes (e.g, 64 bits) by first dividing real-value features vector into M sub-spaces, each with C clustered centroids. 
+Thus the distance between two samples can be expressed as the summation of respective distance to the centroids, which can be sped up by offline calculation and maintained via a look-up-table.
+On the other side, these real-value centroids help to achieve significantly higher accuracy than using binary code. 
+Lastly, we convert the distance look-up-table to be integer and apply the counting-sort algorithm to speed up the ranking stage. 
+We also propose a novel consistency regularization with an iterative framework. Experimental results on Market-1501 and DukeMTMC- reID show promising and exciting results. 
+Under short code, our proposed SCR enjoys Real-value-level accuracy and Hashing-level speed.
+</p>
+<h2>Resources</h2>
+<p>Files: [<a href="https://arxiv.org/pdf/2207.05933.pdf" target=&ldquo;blank&rdquo;>pdf</a>]
+</p>
+<p>Citation:
+</p>
+<div class="infoblock">
+<div class="blockcontent">
+<p>@article{yin2022rapid,<br />
+title={Rapid Person Re-Identification via Sub-space Consistency Regularization},<br />
+author={Yin, Qingze and Wang, Guanan and Ding, Guodong and Li,  Qilei and Gong, Shaoggang and Tang, Zhenmin},<br />
+journal={arXiv preprint arXiv:2207.05933},<br />
+year={2022}<br />
+}
+</p>
+</div></div>
+</div>

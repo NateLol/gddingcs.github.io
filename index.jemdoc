@@ -19,7 +19,7 @@ My current research interest is mainly understanding human actions in long range
 
 == Updates
 - /\[Jul., 22\]/ One conference paper accepted to ECCV2022.
-- /\[Jul., 22\]/ {{<font color="red">}}We will be hosting an [https://atlas-eccv22.github.io/ ATLAS] tutorial in conjunction with [https://eccv2022.ecva.net ECCV22] on October 24!{{</font>}}
+- /\[Jul., 22\]/ {{<font color="red">}} We will be hosting an [https://atlas-eccv22.github.io/ ATLAS] tutorial in conjunction with [https://eccv2022.ecva.net ECCV22] on October 24!{{</font>}}
 - /\[Jun., 21\]/ One journal paper accepted to SPL.
 - /\[Oct., 20\]/ I relocated to Singapore.
 - /\[Dec., 19\]/ I have successfully passed my PhD thesis defense.
@@ -52,6 +52,7 @@ Thesis: /Content based Commodity Image Retrieval/
 
 == Publications
 === Preprints & working papers
+- Q. Yin, G. Wang, *G. Ding*, Q. Li, S. Gong and Z. Tang, Rapid Person Re-Identification via Sub-space Consistency Regularization, /Arxiv paper/ 2022. \[[https://arxiv.org/pdf/2207.05933.pdf pdf]\]|\[[projects/scr/scr.html project page]\]
 - *G. Ding* and A. Yao, Temporal Action Segmentation with High-level Complex Activity Labels, /Arxiv paper/ 2021.  \[[https://arxiv.org/pdf/2108.06706.pdf pdf]\]|\[[projects/cad/cad.html project page]\]
 - *G. Ding\**, S. Khan, Z. Tang, J. Zhang and F. Porikli, Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification, /Arxiv paper/ 2019.  \[[https://arxiv.org/pdf/1906.01308.pdf pdf]\]|\[[https://github.com/gddingcs/Dispersion-based-Clustering  code]\]|\[[projects/dbc/dbc.html project page]\]
 
@@ -61,7 +62,7 @@ Thesis: /Content based Commodity Image Retrieval/
 - *G. Ding\**, S. Khan, Z. Tang, and F. Porikli, Feature Mask Network for Person Re-identification, /Pattern Recognition Letters/ 2019. \[[papers/ding2019feature.pdf pdf]\]|\[[projects/fmn/fmn.html project page]\]
 
 === Conference papers
-- *G. Ding* and A. Yao, Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation, /European Conference on Computer Vision/ 2022.  \[[projects/semi/semi.html project page]\]
+- *G. Ding* and A. Yao, Leveraging Action Affinity and Continuity for Semi-supervised Temporal Action Segmentation, /European Conference on Computer Vision/ 2022.  \[[papers/ding2022leveraging.pdf pdf]\]|\[[projects/semi/semi.html project page]\]
 - *G. Ding\**, S. Khan, and Z. Tang, Dispersion based Clustering for Unsupervised Person Re-identification, /British Machine Vision Conference/ 2019. \[[papers/ding2019dispersion.pdf pdf]\]|\[[papers/ding2019dispersion_poster.pdf poster]\]|\[[projects/dbc/dbc.html project page]\]
 - *G. Ding\**, S. Zhang, S. Khan, and Z. Tang, Center based Pseudo-labeling for Semi-supervised Person Re-identification, /International Conference of Multimedia and Expo Workshops/ 2018. \[[papers/ding2018center.pdf pdf]\]|\[[papers/ding2018center_slides.pdf slides]\]
 
@@ -80,7 +81,6 @@ Prof. [https://sites.google.com/site/shanshanzhangshomepage/ Shanshan Zhang], Na
 
 
 =     
-
 #includeraw{logo.html}
 
 
