@@ -11,7 +11,7 @@ HDOCS=$(addsuffix .html, $(DOCS))
 all : $(HDOCS)
 
 %.html: %.jemdoc
-	python $(COMPILER) -c $(CONF) -o $@ $<
+	python3 $(COMPILER) -c $(CONF) -o $@ $<
 
 .PHONY: upload
 upload:
